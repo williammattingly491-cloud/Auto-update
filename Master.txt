@@ -1,4 +1,1 @@
 
-<version 1.01>
-/data/Map003.json https://raw.githubusercontent.com/williammattingly491-cloud/Auto-update/refs/heads/main/Map003.json
-<end of version>
